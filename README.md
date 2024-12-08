@@ -36,7 +36,7 @@
 
 ## Frontend Repo
 
-Frontend was developed with vue js and vuetify [VueTube](https://github.com/techreagan/vue-nodejs-youtube-clone)
+Frontend was developed with vue js and vuetify [VueTube](https://github.com/montasirrahman/jt-frontend)
 
 ## API Documentation
 
